@@ -3,7 +3,7 @@ import React from "react";
 const teamMembers = [
   {
     id: 1,
-    name: "Amit Kumar Sharma",
+    name: "harsh Vandana Sharma",
     role: "Founder & CEO",
     avatar: "A",
     bg: "bg-amber-400",
@@ -11,7 +11,7 @@ const teamMembers = [
   },
   {
     id: 2,
-    name: "Priya Mehta",
+    name: "Devendra Dhote",
     role: "Head of Product",
     avatar: "P",
     bg: "bg-blue-500",
@@ -19,7 +19,7 @@ const teamMembers = [
   },
   {
     id: 3,
-    name: "Rohan Verma",
+    name: "Sarthak Sharma ",
     role: "Lead Engineer",
     avatar: "R",
     bg: "bg-purple-500",
@@ -27,7 +27,7 @@ const teamMembers = [
   },
   {
     id: 4,
-    name: "Sneha Kapoor",
+    name: "Pradyumna b",
     role: "Design Director",
     avatar: "S",
     bg: "bg-rose-500",
